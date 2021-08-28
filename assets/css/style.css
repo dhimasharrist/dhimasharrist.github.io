@@ -2,6 +2,16 @@ body{
     height: 100%;
 }
 
+.logo-image{
+    width: 20px;
+    position: absolute;
+    padding-top: 4px;
+    margin-left: 5px;
+}
+.pink{
+    background-color: #d63384 !important;
+}
+
 footer{
     width: 100%;
 }
